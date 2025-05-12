@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
 
-<a href ="MAVEN_MOVIES_PROJECT_CODE.sql>Maven Movie Output Code</a>
+<a href="MAVEN_MOVIES_PROJECT_CODE.sql">Projrct output code</a>
 
 
 ---
