@@ -9,6 +9,7 @@ This project focuses on analyzing the *MAVENMOVIES* database to extract valuable
 
 <a href="MAVEN_MOVIES_PROJECT_CODE.sql">Project output code</a>
 
+<a href="https://github.com/jeet787/Maven_Movies_Rental_DA/blob/main/create_mavenmovies_dataset.sql">Dataset Used</a>
 
 ---
 
